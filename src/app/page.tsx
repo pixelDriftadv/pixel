@@ -116,7 +116,7 @@ export default function Home() {
           className="w-80 h-auto rounded-2xl border-2 border-white"
         />
       </div>
-      <div className="h-auto w-full p-6 bg-white/0 flex flex-col items-center justify-center">
+{/*       <div className="h-auto w-full p-6 bg-white/0 flex flex-col items-center justify-center"> */}
         {/* <div className="h-auto w-full p-6">
           <h1 className=" pb-12 text-4xl font-semibold text-white text-center">
             Why to join <span className=" font-extrabold">PixelDrift</span>?
@@ -157,7 +157,7 @@ export default function Home() {
             })}
           </div>
         </div> */}
-      </div>
+{/*       </div> */}
     </main>
   );
 }
